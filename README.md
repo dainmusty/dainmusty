@@ -1,4 +1,4 @@
-# Hi, I'm Odainkey 👋
+# Hi, I'm Odainkey 
 
 Cloud Solutions Architect | DevOps & Platform Engineer
 
@@ -8,7 +8,7 @@ My work focuses on **platform engineering**, enabling development teams to provi
 
 ---
 
-# 🚀 Core Expertise
+# Core Expertise
 
 • AWS Cloud Architecture  
 • Platform Engineering  
@@ -118,7 +118,7 @@ Features include:
 
 ---
 
-# 🧠 What My Work Focuses On
+# What My Work Focuses On
 
 My projects typically focus on solving three core platform engineering challenges:
 
@@ -164,11 +164,11 @@ GitHub Actions
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/dainmusty
-
+https://linkedin.com/in/odainkey-mustapha
+ 
 ---
 
-⭐ If you're interested in **cloud platform engineering, DevOps, or AWS architecture**, feel free to connect.
+ If you're interested in **cloud platform engineering, DevOps, or AWS architecture**, feel free to connect.
