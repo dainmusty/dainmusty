@@ -22,7 +22,7 @@ My work focuses on **platform engineering**, enabling development teams to provi
 
 ---
 
-# 🏗 Featured Platform Projects
+# Featured Platform Projects
 
 ## AWS Enterprise Multi-Account Landing Zone
 
@@ -133,7 +133,7 @@ My projects typically focus on solving three core platform engineering challenge
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 **Cloud**
 
