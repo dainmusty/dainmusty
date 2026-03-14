@@ -7,6 +7,18 @@
 <p align="center">
 Cloud Solutions Architect | DevOps & Platform Engineer
 </p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20EKS-Kubernetes%20Platform-orange?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-red?logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-Observability-orange?logo=grafana&logoColor=white" />
+
+</p>
 
 I design and build **secure, scalable cloud platforms** using AWS, Terraform, Kubernetes, and GitOps.
 
