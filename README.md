@@ -1,10 +1,16 @@
-# Hi, I'm Odainkey 
+# Hi, I'm Odainkey
 
 Cloud Solutions Architect | DevOps & Platform Engineer
 
 I design and build **secure, scalable cloud platforms** using AWS, Terraform, Kubernetes, and GitOps.
 
-My work focuses on **platform engineering**, enabling development teams to provision infrastructure safely through automation while maintaining strong governance and security controls.
+My work focuses on **platform engineering**, enabling development teams to provision infrastructure safely through automation while maintaining strong governance, security, and operational visibility.
+
+Background:
+
+• 16+ years in Petroleum Geoscience and subsurface data analysis  
+• 6+ years designing cloud-native platforms and DevOps automation  
+• Experience building AWS landing zones, Kubernetes platforms, and enterprise DevSecOps pipelines
 
 ---
 
@@ -18,7 +24,7 @@ My work focuses on **platform engineering**, enabling development teams to provi
 • CI/CD Automation (GitHub Actions)  
 • Cloud Security & Governance  
 • Observability (Prometheus, Grafana)  
-• Enterprise Networking (Transit Gateway, VPC architecture)
+• Enterprise Networking (Transit Gateway, multi-VPC architecture)
 
 ---
 
@@ -37,7 +43,7 @@ Key capabilities:
 • Centralized security and audit accounts  
 • Immutable log archive with organization-wide CloudTrail  
 • Shared networking architecture  
-• GitHub Actions CI pipeline for automated deployment
+• GitHub Actions CI pipeline for automated platform deployment
 
 This platform enables **secure self-service AWS account provisioning while maintaining centralized governance.**
 
@@ -53,28 +59,53 @@ Production-ready Kubernetes platform designed for scalable microservice deployme
 Platform capabilities:
 
 • Amazon EKS cluster architecture  
-• ArgoCD GitOps deployment workflows  
-• AWS ALB Ingress Controller  
+• ArgoCD GitOps App-of-Apps deployment model  
+• AWS ALB Ingress Controller for traffic routing  
 • Persistent storage using EBS CSI driver  
-• Infrastructure provisioning using Terraform
+• Infrastructure provisioning with Terraform
 
-This environment enables **GitOps-based application delivery and automated cluster management.**
+This platform enables **GitOps-based application delivery and automated Kubernetes platform management.**
+
+Repository  
+https://github.com/dainmusty/terraform-aws-eks-platform
 
 ---
 
-## Cloud Observability Platform
+## Kubernetes Observability Platform
 
-Monitoring stack deployed using Infrastructure as Code.
+Production-style monitoring stack built using Prometheus and Grafana.
 
-Components:
+Capabilities include:
 
-• Prometheus metrics collection  
-• Grafana dashboards  
-• Alertmanager alerting  
-• Node Exporter host metrics  
-• Kubernetes cluster monitoring
+• Kubernetes cluster monitoring  
+• ArgoCD controller metrics  
+• MongoDB performance monitoring  
+• Custom Grafana dashboards  
+• Prometheus alerting with Alertmanager
 
-The platform provides **full observability into cloud infrastructure and workloads.**
+This platform provides **full operational visibility into infrastructure and workloads.**
+
+Repository  
+https://github.com/dainmusty/prometheus-grafana-observability-stack
+
+---
+
+## DevSecOps CI/CD Platform
+
+Enterprise DevSecOps pipeline built with GitHub Actions.
+
+Capabilities include:
+
+• Terraform infrastructure provisioning  
+• Kubernetes deployment automation  
+• Security scanning with Trivy  
+• OWASP dependency vulnerability scanning  
+• Code quality analysis using SonarCloud
+
+The pipeline automates **secure infrastructure deployment and GitOps-based application delivery.**
+
+Repository  
+https://github.com/dainmusty/devsecops-github-actions-pipeline
 
 ---
 
@@ -92,83 +123,62 @@ This architecture enables **secure connectivity across multiple AWS accounts and
 
 ---
 
-## DevSecOps CI/CD Platform
-
-Automated pipelines built with GitHub Actions.
-
-Capabilities include:
-
-• Terraform infrastructure deployment  
-• Docker container builds  
-• Kubernetes deployment automation  
-• Security scanning (Trivy, OWASP)  
-• Code quality analysis (SonarQube)
-
----
-
 ## Stock Analysis & Data Engineering Project
 
 A data-driven application designed to analyze financial market trends.
 
 Features include:
 
-• Automated data ingestion pipelines  
-• Data analysis workflows  
-• Visualization and reporting
+• automated data ingestion pipelines  
+• financial data analysis workflows  
+• visualization and reporting
 
 ---
 
-# What My Work Focuses On
+# Platform Engineering Focus
 
-My projects typically focus on solving three core platform engineering challenges:
+My work typically focuses on solving three key platform engineering challenges.
 
-1. **Secure Cloud Foundations**  
-   Designing landing zones and governance models that enable safe cloud adoption.
+### Secure Cloud Foundations
 
-2. **Developer Self-Service Infrastructure**  
-   Allowing teams to provision infrastructure automatically while enforcing guardrails.
+Designing AWS landing zones and governance models that allow organizations to adopt cloud safely.
 
-3. **Platform Observability and Reliability**  
-   Ensuring infrastructure and workloads are monitored, secure, and resilient.
+### Developer Self-Service Infrastructure
+
+Building platforms that allow engineers to provision infrastructure automatically while enforcing security guardrails.
+
+### Observability and Reliability
+
+Implementing monitoring, alerting, and automation that ensure infrastructure and applications remain reliable and scalable.
 
 ---
-
 # Technologies
-
-**Cloud**
-
+### Cloud
 AWS
 
-**Infrastructure as Code**
-
+### Infrastructure as Code
 Terraform
 
-**Containers**
-
+### Containers
 Docker  
 Kubernetes  
 Amazon EKS
 
-**GitOps**
-
+### GitOps
 ArgoCD
 
-**Monitoring**
-
+### Monitoring
 Prometheus  
 Grafana
 
-**CI/CD**
-
+### CI/CD
 GitHub Actions
-
+Jenkins
 ---
 
 # Connect With Me
-
 LinkedIn  
 https://linkedin.com/in/odainkey-mustapha
- 
 ---
 
- If you're interested in **cloud platform engineering, DevOps, or AWS architecture**, feel free to connect.
+If you're interested in **cloud platform engineering, DevOps, or AWS architecture**, feel free to connect.
