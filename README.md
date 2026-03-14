@@ -1,6 +1,6 @@
 # Hi, I'm Odainkey
 
-![Cloud Platform Architecture]my platform-architecture.png
+
 
 Cloud Solutions Architect | DevOps & Platform Engineer
 
