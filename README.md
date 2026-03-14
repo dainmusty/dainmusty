@@ -1,4 +1,5 @@
 # Hi, I'm Odainkey
+![Cloud Platform Architecture](platform-architecture.png)
 Cloud Solutions Architect | DevOps & Platform Engineer
 
 I design and build **secure, scalable cloud platforms** using AWS, Terraform, Kubernetes, and GitOps.
