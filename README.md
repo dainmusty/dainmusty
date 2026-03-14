@@ -1,7 +1,12 @@
-# Hi, I'm Odainkey
-![Cloud Platform Architecture](platform-architecture.png)
+<h1 align="center">Hi, I'm Odainkey</h1>
 
-**Cloud Solutions Architect | DevOps & Platform Engineer**
+<p align="center">
+  <img src="platform-architecture.png" alt="Cloud Platform Architecture" width="900">
+</p>
+
+<p align="center">
+Cloud Solutions Architect | DevOps & Platform Engineer
+</p>
 
 I design and build **secure, scalable cloud platforms** using AWS, Terraform, Kubernetes, and GitOps.
 
