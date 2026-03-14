@@ -193,6 +193,15 @@ Grafana
 GitHub Actions
 Jenkins
 ---
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dainmusty&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainmusty&layout=compact&theme=transparent" />
+</p>
 
 # Connect With Me
 LinkedIn  
