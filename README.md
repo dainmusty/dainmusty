@@ -7,8 +7,8 @@
 <p align="center">
 Cloud Solutions Architect | DevOps & Platform Engineer
 </p>
-<p align="center">
 
+<p align="center">
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&logoColor=white" />
@@ -17,18 +17,17 @@ Cloud Solutions Architect | DevOps & Platform Engineer
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-Observability-orange?logo=grafana&logoColor=white" />
-
 </p>
 
 I design and build **secure, scalable cloud platforms** using AWS, Terraform, Kubernetes, and GitOps.
 
 My work focuses on **platform engineering**, enabling development teams to provision infrastructure safely through automation while maintaining strong governance, security, and operational visibility.
 
-Background:
+**Background**
 
 • 16+ years in Petroleum Geoscience and subsurface data analysis  
 • 6+ years designing cloud-native platforms and DevOps automation  
-• Experience building AWS landing zones, Kubernetes platforms, and enterprise DevSecOps pipelines
+• Experience building AWS landing zones, Kubernetes platforms, and enterprise DevSecOps pipelines  
 
 ---
 
@@ -63,8 +62,6 @@ Key capabilities:
 • Shared networking architecture  
 • GitHub Actions CI pipeline for automated platform deployment
 
-This platform enables **secure self-service AWS account provisioning while maintaining centralized governance.**
-
 Repository  
 https://github.com/dainmusty/enterprise-aws-multi-account-landing-zone
 
@@ -82,8 +79,6 @@ Platform capabilities:
 • Persistent storage using EBS CSI driver  
 • Infrastructure provisioning with Terraform
 
-This platform enables **GitOps-based application delivery and automated Kubernetes platform management.**
-
 Repository  
 https://github.com/dainmusty/terraform-aws-eks-platform
 
@@ -91,7 +86,7 @@ https://github.com/dainmusty/terraform-aws-eks-platform
 
 ## Kubernetes Observability Platform
 
-Production-style monitoring stack built using Prometheus and Grafana.
+Monitoring stack built using Prometheus and Grafana.
 
 Capabilities include:
 
@@ -100,8 +95,6 @@ Capabilities include:
 • MongoDB performance monitoring  
 • Custom Grafana dashboards  
 • Prometheus alerting with Alertmanager
-
-This platform provides **full operational visibility into infrastructure and workloads.**
 
 Repository  
 https://github.com/dainmusty/prometheus-grafana-observability-stack
@@ -120,8 +113,6 @@ Capabilities include:
 • OWASP dependency vulnerability scanning  
 • Code quality analysis using SonarCloud
 
-The pipeline automates **secure infrastructure deployment and GitOps-based application delivery.**
-
 Repository  
 https://github.com/dainmusty/devsecops-github-actions-pipeline
 
@@ -129,7 +120,7 @@ https://github.com/dainmusty/devsecops-github-actions-pipeline
 
 ## Advanced AWS Networking Architecture
 
-Designed enterprise networking patterns using:
+Enterprise networking design using:
 
 • AWS Transit Gateway  
 • Multi-VPC architecture  
@@ -147,30 +138,29 @@ A data-driven application designed to analyze financial market trends.
 
 Features include:
 
-• automated data ingestion pipelines  
-• financial data analysis workflows  
-• visualization and reporting
+• Automated data ingestion pipelines  
+• Financial data analysis workflows  
+• Visualization and reporting  
 
 ---
 
 # Platform Engineering Focus
 
-My work typically focuses on solving three key platform engineering challenges.
+My work focuses on solving three key platform engineering challenges.
 
 ### Secure Cloud Foundations
-
 Designing AWS landing zones and governance models that allow organizations to adopt cloud safely.
 
 ### Developer Self-Service Infrastructure
-
 Building platforms that allow engineers to provision infrastructure automatically while enforcing security guardrails.
 
 ### Observability and Reliability
-
-Implementing monitoring, alerting, and automation that ensure infrastructure and applications remain reliable and scalable.
+Implementing monitoring and automation that ensure infrastructure and applications remain reliable and scalable.
 
 ---
+
 # Technologies
+
 ### Cloud
 AWS
 
@@ -190,39 +180,37 @@ Prometheus
 Grafana
 
 ### CI/CD
-GitHub Actions
+GitHub Actions  
 Jenkins
+
+---
 
 ## Engineering Deep Dives
 
-### Building a Terraform-Driven AWS Landing Zone
+### Terraform-Driven AWS Landing Zone
 
 Designing a secure AWS multi-account environment requires careful planning around account boundaries, identity management, and centralized governance.
 
-In this project I implemented:
+Implemented capabilities include:
 
 • AWS Organizations OU hierarchy  
-• SCP guardrails for security enforcement  
+• SCP governance guardrails  
 • IAM Identity Center RBAC automation  
 • Account Vending Machine for self-service provisioning  
 • Centralized audit and logging accounts  
-
-The architecture enables developers to provision AWS accounts safely while maintaining full governance visibility.
 
 ---
 
 ### GitOps Deployment Architecture with ArgoCD
 
-This platform uses the **App-of-Apps** pattern to manage Kubernetes workloads declaratively.
+This platform uses the **App-of-Apps pattern** to manage Kubernetes workloads declaratively.
 
 Key design decisions:
 
 • ArgoCD bootstrap repository  
-• Application repositories separated by environment  
+• Environment-specific application repositories  
 • Kustomize overlays for configuration management  
 • ALB Ingress Controller for secure service exposure  
-
-This approach enables **fully automated Kubernetes deployments with self-healing reconciliation.**
 
 ---
 
@@ -232,14 +220,13 @@ Reliable cloud platforms require strong observability.
 
 This stack implements:
 
-• Prometheus for metrics collection  
+• Prometheus metrics collection  
 • Grafana dashboards for visualization  
-• Alertmanager for incident notification  
+• Alertmanager for incident notifications  
 • Node Exporter for infrastructure metrics  
 
-The system provides **full visibility into cluster health, workloads, and infrastructure performance.**
-
 ---
+
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
@@ -250,9 +237,13 @@ The system provides **full visibility into cluster health, workloads, and infras
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainmusty&layout=compact&theme=transparent" />
 </p>
 
+---
+
 # Connect With Me
+
 LinkedIn  
 https://linkedin.com/in/odainkey-mustapha
+
 ---
 
 If you're interested in **cloud platform engineering, DevOps, or AWS architecture**, feel free to connect.
