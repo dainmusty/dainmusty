@@ -192,6 +192,53 @@ Grafana
 ### CI/CD
 GitHub Actions
 Jenkins
+
+## Engineering Deep Dives
+
+### Building a Terraform-Driven AWS Landing Zone
+
+Designing a secure AWS multi-account environment requires careful planning around account boundaries, identity management, and centralized governance.
+
+In this project I implemented:
+
+• AWS Organizations OU hierarchy  
+• SCP guardrails for security enforcement  
+• IAM Identity Center RBAC automation  
+• Account Vending Machine for self-service provisioning  
+• Centralized audit and logging accounts  
+
+The architecture enables developers to provision AWS accounts safely while maintaining full governance visibility.
+
+---
+
+### GitOps Deployment Architecture with ArgoCD
+
+This platform uses the **App-of-Apps** pattern to manage Kubernetes workloads declaratively.
+
+Key design decisions:
+
+• ArgoCD bootstrap repository  
+• Application repositories separated by environment  
+• Kustomize overlays for configuration management  
+• ALB Ingress Controller for secure service exposure  
+
+This approach enables **fully automated Kubernetes deployments with self-healing reconciliation.**
+
+---
+
+### Observability Architecture for Kubernetes
+
+Reliable cloud platforms require strong observability.
+
+This stack implements:
+
+• Prometheus for metrics collection  
+• Grafana dashboards for visualization  
+• Alertmanager for incident notification  
+• Node Exporter for infrastructure metrics  
+
+The system provides **full visibility into cluster health, workloads, and infrastructure performance.**
+
 ---
 <h2 align="center">GitHub Stats</h2>
 
